@@ -1,0 +1,29 @@
+1. Crear Instancia
+
+2. Elastisc IP
+
+3. Asociar IP
+
+4. conectarse
+
+5. sudo apt update && sudo apt upgrade
+
+
+
+
+
+…or create a new repository on the command line
+echo "# jcgserver" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/RAAG1970/jcgserver.git
+git push -u origin main
+
+
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/RAAG1970/jcgserver.git
+git branch -M main
+git push -u origin main
